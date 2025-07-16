@@ -12,5 +12,5 @@ ReactDOM.createRoot(document.getElementById('root')).render(
       <App />
     </AuthProvider>
 
-  </React.StrictMode>, // this is the strict mode wrapper for React
+  </React.StrictMode>, // this is the strict mode wrapper for React my name is tamradhwaj i like to code and i am learning React
 )
