@@ -8,6 +8,7 @@
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
+    "homepage": "https://tamradhwajojha.github.io/ems-main"
   },
   "dependencies": {
     "react": "^18.2.0",
@@ -25,6 +26,5 @@
     "postcss": "^8.4.47",
     "tailwindcss": "^3.4.13",
     "vite": "^5.2.0"
-  },
-  "homepage": "https://tamradhwajojha.github.io/ems-main"
+  }
 }
